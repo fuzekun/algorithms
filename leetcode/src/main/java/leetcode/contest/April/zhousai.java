@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.contest.April;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.everyDay.April;
 
 import com.sun.istack.internal.NotNull;
 

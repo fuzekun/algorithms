@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.contest.April;
 
 import java.lang.reflect.Array;
 import java.util.HashMap;
@@ -6,10 +6,12 @@ import java.util.Map;
 
 /*
 *
-*
+*月的但周赛，第一场
 *
 * */
-public class Contest {
+public class CApr1_1 {
+
+
     static String preHadle(String s) {
         return s + "!";
     }
