@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="4月的内容完结">
-      <change afterPath="$PROJECT_DIR$/../acwing/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acwing/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acwing/acwing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/base/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Apr_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../niuke/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../niuke/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../niuke/src/main/java/String/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Acwing/Tanxin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/src/main/java/base/tanxin/Tanxin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Contest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/April/CApr1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Exercise25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Exercise25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TestSigle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/TestSigle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Zhousai2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/April/Zhousai2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/zhousai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/April/zhousai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Contest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../niuke/src/main/java/String/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String/Manacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../niuke/src/main/java/String/Manacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TestSigle.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="432">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -269,24 +255,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -297,7 +265,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../acwing/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -429,6 +397,7 @@
       <workItem from="1651283235879" duration="2797000" />
       <workItem from="1651286880955" duration="57000" />
       <workItem from="1651286959165" duration="345000" />
+      <workItem from="1651288382707" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="4月的内容完结">
       <created>1651283981766</created>
@@ -467,12 +436,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135620000" />
+    <option name="totallyTimeSpent" value="135730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33103448" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33586207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -535,7 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/String/Main.java">
+    <entry file="file://$PROJECT_DIR$/../niuke/src/main/java/String/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1350">
           <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
@@ -545,7 +514,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/String/Manacher.java">
+    <entry file="file://$PROJECT_DIR$/../niuke/src/main/java/String/Manacher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1800">
           <caret line="52" column="44" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
@@ -648,7 +617,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/String/readme">
+    <entry file="file://$PROJECT_DIR$/../niuke/src/main/java/String/readme">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -773,8 +742,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="432">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>

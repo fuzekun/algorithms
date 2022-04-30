@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36248652-48e7-4695-be7a-f37777aa3e77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/contest/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/April/Apr_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/Contest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/contest/April/CApr1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/Exercise25.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/April/Exercise25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/April/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/April/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/April/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/TestSigle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/TestSigle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/Zhousai2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/contest/April/Zhousai2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/zhousai.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/contest/April/zhousai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/target/classes/leetcode/Contest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/target/classes/leetcode/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/target/classes/leetcode/Main2.class" afterDir="false" />
-    </list>
+    <list default="true" id="36248652-48e7-4695-be7a-f37777aa3e77" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="576">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -127,7 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -140,6 +120,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,6 +229,7 @@
       <workItem from="1651286957154" duration="425000" />
       <workItem from="1651287405828" duration="328000" />
       <workItem from="1651287818948" duration="125000" />
+      <workItem from="1651288219892" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="acwing工程建立">
       <created>1651287681774</created>
@@ -267,12 +249,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1218000" />
+    <option name="totallyTimeSpent" value="1252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26344827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -317,8 +299,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="576">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
