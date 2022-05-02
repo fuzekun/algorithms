@@ -5,12 +5,12 @@
 按照知识点进行刷题
 结合ACWing或者牛客上面的知识点进行刷题
 
-math : 数学和数论的东西
-base : 基础算法
-datastructure: 数据结构
-dp : 动态规划
-graph : 图论
-search : 搜索
+- math : 数学和数论的东西
+- base : 基础算法
+- datastructure: 数据结构
+- dp : 动态规划
+- graph : 图论
+- search : 搜索
 
 ## 数学
 ### 凸包
