@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/categories/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/contest/readme" beforeDir="false" />
-    </list>
+    <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="周赛的readme文件" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../acwing/target/" />
@@ -39,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="319">
+              <first_editor relative-caret-position="-128">
                 <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               </first_editor>
               <second_editor />
@@ -47,12 +42,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="124">
-                <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <first_editor relative-caret-position="376">
+                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="108">
+                <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -67,15 +74,6 @@
                 <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Apr_30.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -483,7 +481,7 @@
       <workItem from="1651452756899" duration="12225000" />
       <workItem from="1651471274672" duration="4602000" />
       <workItem from="1651480960142" duration="2210000" />
-      <workItem from="1651484737364" duration="534000" />
+      <workItem from="1651484737364" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="4月的内容完结">
       <created>1651283981766</created>
@@ -527,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651485093315</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="周赛的readme文件">
+      <created>1651485370309</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651485370309</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -557,7 +562,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163703000" />
+    <option name="totallyTimeSpent" value="163904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
@@ -605,7 +610,8 @@
     <MESSAGE value="增加leetcode按照知识点分类刷题。" />
     <MESSAGE value="试一下readMe" />
     <MESSAGE value="增加每日一题的readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加每日一题的readme" />
+    <MESSAGE value="周赛的readme文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="周赛的readme文件" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Stack.java">
@@ -852,16 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Apr_30.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -936,7 +932,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="319">
+          <first_editor relative-caret-position="-128">
             <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           </first_editor>
           <second_editor />
@@ -946,8 +942,18 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="124">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="376">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
