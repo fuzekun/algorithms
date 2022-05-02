@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="4月的内容完结">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/math/tubao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/May/M_T_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/utils/PrintArrays.java" afterDir="false" />
+    <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/utils/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/contest/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Acwing/Tanxin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/String/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/String/Manacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Exercise25$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Exercise25$ExerceseHander.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Exercise25$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Exercise25$PolyNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Exercise25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Main$MainHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Main2$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Test$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/TestSigle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Zhousai2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Zhousai2$1Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Zhousai2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/Zhousai2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/everyDay/April/Apr_30.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/everyDay/April/Apr_30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/zhousai$Tuple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/zhousai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/categories/readme" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,22 +47,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/readme">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/May/M_T_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -114,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/math/tubao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            <state relative-caret-position="396">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="131" column="26" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="26" />
+            <state relative-caret-position="-2503">
+              <caret line="132" column="22" selection-start-line="132" selection-start-column="22" selection-end-line="132" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -221,11 +195,12 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/readme" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/May/M_T_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/readme" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/readme" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/PrintArrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/math/tubao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/readme" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/readme.md" />
       </list>
     </option>
   </component>
@@ -338,12 +313,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/leetcode/utils" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\algorithm\leetcode\src\main\java\leetcode\utils" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -472,7 +452,7 @@
       <workItem from="1651368644327" duration="6248000" />
       <workItem from="1651386955199" duration="2154000" />
       <workItem from="1651452756899" duration="12225000" />
-      <workItem from="1651471274672" duration="2618000" />
+      <workItem from="1651471274672" duration="4253000" />
     </task>
     <task id="LOCAL-00001" summary="4月的内容完结">
       <created>1651283981766</created>
@@ -481,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651283981766</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加leetcode按照知识点分类刷题。">
+      <created>1651478316630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651478316630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -511,10 +498,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158975000" />
+    <option name="totallyTimeSpent" value="160610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35517243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -555,7 +543,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4月的内容完结" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月的内容完结" />
+    <MESSAGE value="增加leetcode按照知识点分类刷题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加leetcode按照知识点分类刷题。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Stack.java">
@@ -793,23 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/May/M_T_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
@@ -851,13 +823,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="131" column="26" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/PrintArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -867,11 +832,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/math/tubao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="396">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="13" column="10" lean-forward="true" selection-end-line="15" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2503">
+          <caret line="132" column="22" selection-start-line="132" selection-start-column="22" selection-end-line="132" selection-end-column="22" />
         </state>
       </provider>
     </entry>
