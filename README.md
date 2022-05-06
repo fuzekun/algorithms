@@ -14,9 +14,9 @@
 
 ## leetcode
 
-- [知识点对应题目](https://gitee.com/tobewin3/algorithm/tree/master/leetcode/src/main/java/leetcode/categories)
-- [每日一题对应知识点](https://gitee.com/tobewin3/algorithm/tree/master/leetcode/src/main/java/leetcode/everyDay)
-- [周赛题目的知识点](https://gitee.com/tobewin3/algorithm/tree/master/leetcode/src/main/java/leetcode/contest)
+- [知识点对应题目](https://gitee.com/tobewin3/algorithm/tree/master/leetcode/src/main/java/leetcode/categories)(https://gitee.com/tobewin3/algorithm/blob/master/leetcode/src/main/java/leetcode/docs/%E7%9F%A5%E8%AF%86%E7%82%B9-%E9%A2%98%E7%9B%AE.md)
+- [每日一题对应知识点](https://gitee.com/tobewin3/algorithm/blob/master/leetcode/src/main/java/leetcode/docs/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98.md)
+- [周赛题目的知识点](https://gitee.com/tobewin3/algorithm/blob/master/leetcode/src/main/java/leetcode/docs/%E5%91%A8%E8%B5%9B.md)
 
 
 
