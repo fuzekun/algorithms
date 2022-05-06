@@ -22,7 +22,7 @@ public class PrintArrays {
                 if (j != m - 1) System.out.print(',');
                 else System.out.print(']');
             }
-            if (i != n - 1) System.out.print(',');
+            if (i != n - 1) System.out.println(',');
             else System.out.println(']');
         }
     }

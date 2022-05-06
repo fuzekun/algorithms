@@ -1,9 +1,6 @@
 package leetcode.contest.May;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.PriorityQueue;
+import java.util.*;
 
 public class M_T_1 {
     public String removeDigit(String number, char digit) {
@@ -65,6 +62,76 @@ public class M_T_1 {
         return ans;
     }
 
+    /*
+    *
+    *   最后一道题目的暴力解法
+    * 1. 首先枚举所有的子串
+    * 2.
+    * */
+    public long appealSum(String s) {
+        long ans = 0L;
+        int n = s.length();
+        for (int i = 0; i < n; i++) {
+            StringBuilder sb = new StringBuilder();
+            long cnt = 0L; // 之前的子串中有多少个不同的字符
+            boolean[] vis = new boolean[26];
+            Arrays.fill(vis, false);
+            for (int j = i; j < n; j++) {
+                sb.append(s.charAt(j));
+                if (!vis[s.charAt(j) - 'a']) {
+                    cnt++;
+                    vis[s.charAt(j) - 'a'] = true;
+                }
+                System.out.println(sb.toString() + " " + cnt);
+                ans += cnt;
+            }
+        }
+        return ans;
+    }
+
+    /*
+            第二种暴力解法
+            fxfz
+            f
+            x
+            fx
+
+     */
+
+    public long solve2(String s) {
+        long ans = 0;
+        int n = s.length();
+        for (int i = 0; i < n; i++) {
+            StringBuilder sb = new StringBuilder();
+            long sum = 0;
+            boolean[] vis = new boolean[26];
+            for (int j = i; j >= 0; j--) {
+                int c = s.charAt(j) - 'a';
+                sb.append(s.charAt(j));
+                if (!vis[c]) {
+                    vis[c] = true;
+                    sum++;
+                }
+                System.out.println(sb.toString() + " " + sum);
+                ans += sum;
+            }
+        }
+        return ans;
+    }
+
+    public long appealSum2(String s) {
+        long ans = 0;
+        int n = s.length();
+        int[] f = new int[26];
+        Arrays.fill(f, -1);
+        for (int i = 0; i < n; i++) {
+            f[s.charAt(i) - 'a'] = i;
+            for (int j = 0; j < 26; j++) {
+                ans += f[j] + 1;
+            }
+        }
+        return ans;
+    }
 
     public int lastSolve(String s) {
         int sum = 0, ans = 0;
@@ -85,9 +152,14 @@ public class M_T_1 {
         int[] nums = {2,3,3,2,2};
         int[] nums2 = {1,2,3,4};
 //        System.out.println("ans1 = " + t.removeDigit("513214", '1'));
-        System.out.println("ans2 = " + t.solve2(nums2));
+//        System.out.println("ans2 = " + t.solve2(nums2));
 //        System.out.println("ans3 = " + t.countDistinct(nums, 2, 2));
-//        System.out.println("ans4 = " + t.lastSolve("abbca"));
+//        System.out.println("ans4 = " + t.appealSum2("abbca"));
+//        System.out.println("rightAns4 = " + t.lastSolve("abbca"));
+        String s = "fxfz";
+        System.out.println("ans = " + t.solve2(s));
+        System.out.println("ans4 = " + t.appealSum(s));
+
     }
     /*
     *
