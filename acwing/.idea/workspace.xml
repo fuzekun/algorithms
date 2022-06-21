@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36248652-48e7-4695-be7a-f37777aa3e77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/doc/dp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc/search.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/search/Number8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/contest/April/A_T_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/contest/May/M_T_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/HardQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/May/May_E_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/May/May_E_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/May/May_E_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc/dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/dp.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/周赛.md" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/周赛.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/每日一题.md" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/每日一题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/知识点-题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/知识点-题目.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,17 +43,29 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/base/readme">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/doc/dp.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="484">
+                <caret line="19" selection-start-line="19" selection-end-line="19" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/doc/dp.md">
+        <entry file="file://$PROJECT_DIR$/src/doc/search.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="612">
-                <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <first_editor relative-caret-position="144">
+                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -50,15 +73,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/search/Number8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/base/tanxin/Tanxin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
+            <state relative-caret-position="2160">
               <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -69,6 +108,8 @@
         <option value="$PROJECT_DIR$/src/main/java/base/readme" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/doc/dp.md" />
+        <option value="$PROJECT_DIR$/src/main/java/search/Number8.java" />
+        <option value="$PROJECT_DIR$/src/doc/search.md" />
       </list>
     </option>
   </component>
@@ -125,7 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,11 +185,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="acwing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acwing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acwing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acwing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acwing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acwing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,7 +218,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java/javaBase/chapterNow" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -259,6 +321,7 @@
       <workItem from="1651287818948" duration="125000" />
       <workItem from="1651288219892" duration="34000" />
       <workItem from="1651882469170" duration="2220000" />
+      <workItem from="1652185771288" duration="1280000" />
     </task>
     <task id="LOCAL-00001" summary="acwing工程建立">
       <created>1651287681774</created>
@@ -278,12 +341,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3472000" />
+    <option name="totallyTimeSpent" value="4752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26689655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27034482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,7 +361,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.30989584" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.30949286" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -333,25 +396,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/base/tanxin/Tanxin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/base/readme">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/doc/dp.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="612">
-            <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <first_editor relative-caret-position="484">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/tanxin/Tanxin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/search/Number8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/doc/search.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>

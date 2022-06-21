@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="完成一场双周赛">
-      <change afterPath="$PROJECT_DIR$/../acwing/src/doc/dp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/BigHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/CountTopN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../niuke/src/docs/dp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../niuke/src/main/java/dp/SequeceDP.java" afterDir="false" />
+    <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../acwing/src/doc/search.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/search/Number8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/base/sortAlgorithm/FindK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/base/sortAlgorithm/MySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/dp/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/graph/Tuopu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/math/Rand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/April/A_T_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/May/M_T_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/docs/HardQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/June/June_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/May_first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/StateDp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/VailidNumber4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/hardQ/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liurujia/algoLiu/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liurujia/algoLiu/src/main/java/chapter8/homework/Copying_books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liurujia/algoLiu/src/main/java/chapter8/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../niuke/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/src/doc/dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/src/doc/dp.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/docs/周赛.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/docs/周赛.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/docs/每日一题.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/docs/每日一题.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/docs/知识点-题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/docs/知识点-题目.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/contest/May/MayTest_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/contest/May/MayTest_2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../niuke/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../niuke/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,104 +66,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_21.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/June/June_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/math/Rand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/BigHeap.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+            <state relative-caret-position="282">
+              <caret line="1863" column="23" selection-start-line="1863" selection-start-column="23" selection-end-line="1863" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#1887#1888#0" expanded="true" />
-                <element signature="e#1906#1907#0" expanded="true" />
+                <element signature="e#88329#88330#0" expanded="true" />
+                <element signature="e#88386#88387#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/CountTopN.java">
+        <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Random.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+            <state relative-caret-position="12456">
+              <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/base/sortAlgorithm/MySort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/base/sortAlgorithm/FindK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2151#2152#0" expanded="true" />
-                <element signature="e#2177#2178#0" expanded="true" />
+                <element signature="method#findk#0;class#FindK#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Division.java">
+        <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+            <state relative-caret-position="84528">
+              <caret line="2427" column="25" selection-start-line="2427" selection-start-column="25" selection-end-line="2427" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#58481#58482#0" expanded="true" />
+                <element signature="e#58518#58519#0" expanded="true" />
+                <element signature="e#94598#94599#0" expanded="true" />
+                <element signature="e#94636#94637#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1908">
-              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/知识点-题目.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="77" selection-start-line="77" selection-end-line="77" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/PrintArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5940">
-              <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3708">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
             </state>
           </provider>
         </entry>
@@ -172,6 +179,7 @@
       <find>iterator</find>
       <find>gene</find>
       <find>`</find>
+      <find>compare</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -180,29 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Acwing/Tanxin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/Exercise25.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/Main2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/readme" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Apr_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/Contest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/Contest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/April/Contest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/April/CApr1_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Apr_30.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/April/zhousai.java" />
-        <option value="$PROJECT_DIR$/../acwing/src/main/java/base/tanxin/Tanxin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/May/ererydaya/E_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/readme" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/math/tubao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/readme" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/readMe.md" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/readme" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/ListOp.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/ListNode.java" />
@@ -220,10 +205,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/May/MayTest_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/search/Model.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/search/BfsModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/docs/周赛.md" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/docs/每日一题.md" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/docs/知识点-题目.md" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/mergeHeap.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/MergeHeap.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/CountTop100.java" />
@@ -231,6 +213,32 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Division.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/CountTopN.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/docs/知识点-题目.md" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/April/A_T_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/May/M_T_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/docs/周赛.md" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/graph/Tuopu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/docs/每日一题.md" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/May_first.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/VailidNumber4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/docs/HardQ.md" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/base/MySort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/base/sortAlgorithm/FindK.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_18.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/hardQ/readme" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/dp/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_20.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuoshen/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/June/June_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/math/Rand.java" />
       </list>
     </option>
   </component>
@@ -281,6 +289,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -331,7 +340,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="categories" type="462c0819:PsiDirectoryNode" />
-              <item name="bigData" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -340,23 +349,31 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="everyDay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java/javaBase/threads" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
@@ -382,13 +399,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BigHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.categories.bigData.BigHeap" />
+  <component name="RunManager" selected="Application.May_E_21">
+    <configuration name="May_E_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.everyDay.May.May_E_18" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.categories.bigData.*" />
+          <option name="PATTERN" value="leetcode.everyDay.May.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,12 +413,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountTopN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.categories.bigData.CountTopN" />
+    <configuration name="May_E_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.everyDay.May.May_E_20" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.categories.bigData.*" />
+          <option name="PATTERN" value="leetcode.everyDay.May.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,12 +426,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.categories.bigData.Division" />
+    <configuration name="May_E_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.everyDay.May.May_E_21" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.categories.bigData.*" />
+          <option name="PATTERN" value="leetcode.everyDay.May.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -422,12 +439,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.categories.bigData.Main" />
+    <configuration name="ValidNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.hardQ.may.ValidNumber2" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.categories.bigData.*" />
+          <option name="PATTERN" value="leetcode.hardQ.may.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,12 +452,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MayTest_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.contest.May.MayTest_2" />
+    <configuration name="ValidNumber3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.hardQ.may.ValidNumber3" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.contest.May.*" />
+          <option name="PATTERN" value="leetcode.hardQ.may.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -450,11 +467,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CountTopN" />
-        <item itemvalue="Application.Division" />
-        <item itemvalue="Application.BigHeap" />
-        <item itemvalue="Application.MayTest_2" />
+        <item itemvalue="Application.May_E_21" />
+        <item itemvalue="Application.May_E_20" />
+        <item itemvalue="Application.May_E_18" />
+        <item itemvalue="Application.ValidNumber3" />
+        <item itemvalue="Application.ValidNumber2" />
       </list>
     </recent_temporary>
   </component>
@@ -509,7 +526,27 @@
       <workItem from="1651819737542" duration="18270000" />
       <workItem from="1651882424152" duration="43000" />
       <workItem from="1651889634797" duration="2024000" />
-      <workItem from="1651907401865" duration="12235000" />
+      <workItem from="1651907401865" duration="12775000" />
+      <workItem from="1651922291349" duration="33000" />
+      <workItem from="1651969478993" duration="6401000" />
+      <workItem from="1651993197228" duration="7416000" />
+      <workItem from="1652054118544" duration="2283000" />
+      <workItem from="1652097569492" duration="18000" />
+      <workItem from="1652141164864" duration="1604000" />
+      <workItem from="1652150564605" duration="611000" />
+      <workItem from="1652167418603" duration="18000" />
+      <workItem from="1652185419695" duration="349000" />
+      <workItem from="1652229192166" duration="2915000" />
+      <workItem from="1652746196053" duration="10539000" />
+      <workItem from="1652772105660" duration="71000" />
+      <workItem from="1652829770333" duration="5062000" />
+      <workItem from="1652842982490" duration="21000" />
+      <workItem from="1653013678970" duration="184000" />
+      <workItem from="1653013880854" duration="3750000" />
+      <workItem from="1653092386665" duration="1349000" />
+      <workItem from="1653444871936" duration="308000" />
+      <workItem from="1654759496931" duration="4226000" />
+      <workItem from="1654844680789" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="4月的内容完结">
       <created>1651283981766</created>
@@ -567,7 +604,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651840067607</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="大数据的第一个算法">
+      <created>1651920068166</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651920068166</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -603,12 +647,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212883000" />
+    <option name="totallyTimeSpent" value="260641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1508" height="900" extended-state="7" />
+    <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4213793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3337931" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -628,6 +672,9 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3268229" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
+      <window_info anchor="bottom" id="Log Analyzer" order="14" />
+      <window_info anchor="bottom" id="SOQL Query" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -638,6 +685,40 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3337931" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294271" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4153646" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3294271" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3268229" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
+      <window_info anchor="bottom" id="Log Analyzer" order="14" />
+      <window_info anchor="bottom" id="SOQL Query" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32965517" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32965517" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -652,330 +733,44 @@
     <MESSAGE value="增加每日一题的readme" />
     <MESSAGE value="周赛的readme文件" />
     <MESSAGE value="完成一场双周赛" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成一场双周赛" />
+    <MESSAGE value="大数据的第一个算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="大数据的第一个算法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Random.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/BigHeap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2520">
-          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
-          <folding>
-            <element signature="e#3504#3505#0" expanded="true" />
-            <element signature="e#3562#3563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25740">
-          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
-          <folding>
-            <element signature="e#32010#32011#0" expanded="true" />
-            <element signature="e#32095#32096#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/javafx-src.zip!/javafx/util/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4968">
-          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49500">
-          <caret line="1430" column="41" selection-start-line="1430" selection-start-column="41" selection-end-line="1430" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2880">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../niuke/src/main/java/String/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10728">
-          <caret line="324" column="11" selection-start-line="324" selection-start-column="11" selection-end-line="324" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/readme" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/base/tanxin/Tanxin.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Division.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+        <state relative-caret-position="1296">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/April/zhousai.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/May/ererydaya/E_1.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/April/Zhousai2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/April/CApr1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/readme" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/readme" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/math/tubao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Apr_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2916">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/readme" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/ListOp.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Exercise25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6948">
-          <caret line="197" column="27" selection-start-line="197" selection-start-column="27" selection-end-line="197" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/String.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1908">
-          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/moni/Moni_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50976">
-          <caret line="1479" column="30" selection-start-line="1479" selection-start-column="30" selection-end-line="1479" selection-end-column="30" />
-          <folding>
-            <element signature="e#58481#58482#0" expanded="true" />
-            <element signature="e#58518#58519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Apr_30.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/April/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/周赛.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1116">
-            <caret line="31" selection-start-line="31" selection-end-line="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/每日一题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="484">
-            <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/May/M_T_1.java">
+    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4896">
-          <caret line="138" column="16" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/May/MayTest_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/search/BfsModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/PrintArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="3132">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -993,6 +788,320 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/CountTopN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/April/A_T_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/May/M_T_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/hardQ.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/每日一题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1404">
+            <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/function/IntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/周赛.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="288">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/May/M_T_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4788">
+          <caret line="138" column="16" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/May/MayTest_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3204">
+          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/知识点-题目.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2772">
+            <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/readme.txtx" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/graph/Tuopu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3924">
+          <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/May_first.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3492">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3132">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/VailidNumber4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/HardQ.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/search/Number8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/base/tanxin/Tanxin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/readme.me" />
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/base/readme">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/StateDp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuoshen/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/utils/PrintArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/June/June_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12456">
+          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/base/sortAlgorithm/MySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/base/sortAlgorithm/FindK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="method#findk#0;class#FindK#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84528">
+          <caret line="2427" column="25" selection-start-line="2427" selection-start-column="25" selection-end-line="2427" selection-end-column="25" />
+          <folding>
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -1000,65 +1109,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/math/Rand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1908">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        <state relative-caret-position="319">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/知识点-题目.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="77" selection-start-line="77" selection-end-line="77" />
-          </first_editor>
-          <second_editor />
+    <entry file="jar://D:/usersoftware/java/jdk1.8.0_221/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="1241" column="23" selection-start-line="1241" selection-start-column="23" selection-end-line="1241" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Division.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        <state relative-caret-position="282">
+          <caret line="1863" column="23" selection-start-line="1863" selection-start-column="23" selection-end-line="1863" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/CountTopN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2151#2152#0" expanded="true" />
-            <element signature="e#2177#2178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/bigData/BigHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#1887#1888#0" expanded="true" />
-            <element signature="e#1906#1907#0" expanded="true" />
+            <element signature="e#88329#88330#0" expanded="true" />
+            <element signature="e#88386#88387#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1066,9 +1137,78 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
