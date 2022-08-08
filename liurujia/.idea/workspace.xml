@@ -2,39 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da012e8-dee0-478c-92c6-7af848e12de8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../acwing/src/doc/search.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/search/Number8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/categories/base/sortAlgorithm/FindK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/categories/base/sortAlgorithm/MySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/categories/dp/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/categories/graph/Tuopu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/contest/April/A_T_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/contest/May/M_T_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/HardQ.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/May/May_E_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/May/May_E_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/May/May_E_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/May/May_E_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/May/May_E_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/everyDay/May/May_E_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/hardQ/may/May_first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/hardQ/may/StateDp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/hardQ/may/VailidNumber4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/hardQ/may/ValidNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/hardQ/may/ValidNumber2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/hardQ/may/ValidNumber3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/hardQ/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoLiu/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoLiu/src/main/java/chapter8/homework/Copying_books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoLiu/src/main/java/chapter8/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../niuke/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/Graph/Acwing_367.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/Graph/Tarjon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/problemset/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/problemset/leetcode/editor/cn/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoLiu/src/main/java/chapter9/Spayder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../acwing/src/doc/dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/src/doc/dp.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/周赛.md" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/周赛.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/每日一题.md" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/每日一题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/知识点-题目.md" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/docs/知识点-题目.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../niuke/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../niuke/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/target/classes/leetcode/everyDay/May/May_E_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/target/classes/leetcode/everyDay/May/May_E_21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/target/classes/leetcode/everyDay/May/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoLiu/algoLiu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algoLiu/algoLiu.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/algoLiu/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,11 +50,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algoLiu/src/main/java/chapter8/homework/Copying_books.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algoLiu/src/main/java/chapter9/Spayder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spyder.out">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1620">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/PrintStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="733" column="16" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -96,6 +107,8 @@
         <option value="$PROJECT_DIR$/algoLiu/pom.xml" />
         <option value="$PROJECT_DIR$/algoLiu/src/main/java/chapter8/readme.md" />
         <option value="$PROJECT_DIR$/algoLiu/src/main/java/chapter8/homework/Copying_books.java" />
+        <option value="$PROJECT_DIR$/spyder.out" />
+        <option value="$PROJECT_DIR$/algoLiu/src/main/java/chapter9/Spayder.java" />
       </list>
     </option>
   </component>
@@ -115,18 +128,6 @@
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/liurujia.iml" />
-        <option value="$PROJECT_DIR$/algoLiu/algoLiu.iml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1110" />
@@ -159,21 +160,6 @@
               <item name="algoLiu" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="liurujia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liurujia" type="462c0819:PsiDirectoryNode" />
-              <item name="algoLiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liurujia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liurujia" type="462c0819:PsiDirectoryNode" />
-              <item name="algoLiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -181,16 +167,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java/javaBase/threads" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,6 +191,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Spayder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.Spayder" />
+      <module name="algoLiu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Spayder" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -216,25 +223,27 @@
       <updated>1653445270583</updated>
       <workItem from="1653445271694" duration="2442000" />
       <workItem from="1653478929004" duration="607000" />
+      <workItem from="1659512989155" duration="6986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3049000" />
+    <option name="totallyTimeSpent" value="10035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25310344" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49902913" visible="true" weight="0.25672877" />
+      <window_info id="Structure" order="1" sideWeight="0.5009709" side_tool="true" weight="0.25672877" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3294271" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294271" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -247,6 +256,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="SOQL Query" order="14" />
+      <window_info anchor="right" id="leetcode" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -263,6 +273,16 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/algoLiu/src/main/java/chapter8/HomeWork.java" />
+    <entry file="file://$PROJECT_DIR$/algoLiu/algoLiu.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="733" column="16" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/algoLiu/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -284,6 +304,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spyder.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algoLiu/src/main/java/chapter9/Spayder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -338,7 +375,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>liurujia</last-edited>
+          <last-edited>algoLiu</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
