@@ -16,11 +16,11 @@ lc叶良辰的刷题日记。
 
 1. dp
    - [背包问题](https://github.com/fuzekun/algorithms/blob/master/%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/dp/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
-2.  [树](https://github.com/fuzekun/algorithms/blob/master/%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91.md)
-   - 遍历
-   - 时间戳
-   - 无根树
-   - 最近公共祖先
+2.  树
+   - [遍历](https://github.com/fuzekun/algorithms/blob/master/%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91.md)
+   - [时间戳](https://github.com/fuzekun/algorithms/blob/master/%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91.md)
+   - [无根树](https://github.com/fuzekun/algorithms/blob/master/%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91.md)
+   - [最近公共祖先](https://github.com/fuzekun/algorithms/blob/master/%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91.md)
 3. 字符串
    - [Trie树、KMP、AC自动机](https://github.com/fuzekun/algorithms/blob/master/%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/Trie%E6%A0%91%20%2B%20AC%E8%87%AA%E5%8A%A8%E6%9C%BA.md)
 
