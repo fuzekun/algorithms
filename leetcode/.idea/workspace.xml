@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/Graph/Acwing_1175.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/Graph/Acwing_367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/Graph/Bipartite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/Graph/Tarjon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/graph/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/graph/DPG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/categories/graph/leet127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/problemset/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/problemset/leetcode/editor/cn/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../liurujia/algoLiu/src/main/java/chapter9/Spayder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/dataStructure/TreeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/grady/leet2193.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/everyDay/May/May_E_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/everyDay/May/May_E_21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/everyDay/May/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../liurujia/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../liurujia/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../liurujia/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../liurujia/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../liurujia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../liurujia/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../liurujia/algoLiu/algoLiu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../liurujia/algoLiu/algoLiu.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,15 +35,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/graph/leet127.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../acwing/acwing.iml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -76,110 +51,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/Graph/Bipartite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="105" column="29" lean-forward="true" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+            <state relative-caret-position="234">
+              <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1982#1983#0" expanded="true" />
                 <element signature="e#2025#2026#0" expanded="true" />
-                <element signature="e#2415#2416#0" expanded="true" />
-                <element signature="e#2458#2459#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/grady/leet2193.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2952">
+              <caret line="85" column="20" lean-forward="true" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/Graph.JudegeDfs">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>Graph.JudegeDfs</OriginalElement>
-              <nodes>
-                <node x="254.5" y="0.0">java.lang.FunctionalInterface</node>
-                <node x="-111.0" y="157.5">Graph.Bipartite</node>
-                <node x="505.0" y="215.0">Graph.JudegeDfs</node>
-                <node x="296.0" y="96.0">Graph.JudgeMethod</node>
-                <node x="296.0" y="215.0">Graph.JudegeBfs</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="Graph.Bipartite" target="Graph.JudgeMethod">
-                  <point x="0.0" y="-34.5" />
-                  <point x="138.0" y="190.0" />
-                  <point x="327.5" y="190.0" />
-                  <point x="-63.0" y="34.5" />
-                </edge>
-                <edge source="Graph.JudegeBfs" target="Graph.JudgeMethod">
-                  <point x="0.0" y="-81.0" />
-                  <point x="0.0" y="34.5" />
-                </edge>
-                <edge source="Graph.JudgeMethod" target="java.lang.FunctionalInterface">
-                  <point x="0.0" y="-34.5" />
-                  <point x="0.0" y="23.0" />
-                </edge>
-                <edge source="Graph.JudegeDfs" target="Graph.JudgeMethod">
-                  <point x="0.0" y="-81.0" />
-                  <point x="599.5" y="190.0" />
-                  <point x="453.5" y="190.0" />
-                  <point x="63.0" y="34.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="72.0" />
-              <SelectedNodes>
-                <node>Graph.Bipartite</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="1054" column="13" selection-start-line="1054" selection-start-column="13" selection-end-line="1054" selection-end-column="13" />
+              <folding>
+                <element signature="e#24331#24332#0" expanded="true" />
+                <element signature="e#24396#24397#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/Graph.JudegeBfs">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>Graph.JudegeBfs</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">java.lang.FunctionalInterface</node>
-                <node x="41.5" y="96.0">Graph.JudgeMethod</node>
-                <node x="41.5" y="215.0">Graph.JudegeBfs</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="Graph.JudegeBfs" target="Graph.JudgeMethod">
-                  <point x="0.0" y="-81.0" />
-                  <point x="0.0" y="34.5" />
-                </edge>
-                <edge source="Graph.JudgeMethod" target="java.lang.FunctionalInterface">
-                  <point x="0.0" y="-34.5" />
-                  <point x="0.0" y="23.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-73.5" y="72.0" />
-              <SelectedNodes>
-                <node>Graph.JudegeBfs</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+        <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/TreeArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+              <folding>
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1087" column="14" selection-start-line="1087" selection-start-column="14" selection-end-line="1087" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -239,8 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/utils/PrintArrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/May/MayTest_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/search/Model.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/categories/search/BfsModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/everyDay/May/May_E_7.java" />
@@ -290,6 +218,8 @@
         <option value="$PROJECT_DIR$/../acwing/src/main/java/Graph/Tarjon.java" />
         <option value="$PROJECT_DIR$/../acwing/src/main/java/Graph/Acwing_1175.java" />
         <option value="$PROJECT_DIR$/../acwing/src/main/java/Graph/Bipartite.java" />
+        <option value="$PROJECT_DIR$/../acwing/src/main/java/dataStructure/TreeArray.java" />
+        <option value="$PROJECT_DIR$/../acwing/src/main/java/grady/leet2193.java" />
       </list>
     </option>
   </component>
@@ -326,7 +256,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="2262" />
@@ -372,7 +302,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -380,8 +310,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-              <item name="Bipartite.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="grady" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -426,39 +355,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="JUnit.leet2193">
     <configuration name="Acwing_1175" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.Acwing_1175" />
       <module name="acwing" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="May_E_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.everyDay.May.May_E_20" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.everyDay.May.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="May_E_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.everyDay.May.May_E_21" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.everyDay.May.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -492,13 +395,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="leet2193" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grady.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="grady" />
+      <option name="MAIN_CLASS_NAME" value="grady.leet2193" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leet2193.testM2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grady.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="grady" />
+      <option name="MAIN_CLASS_NAME" value="grady.leet2193" />
+      <option name="METHOD_NAME" value="testM2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.leet2193" />
+        <item itemvalue="JUnit.leet2193.testM2" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Acwing_1175" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.May_E_21" />
-        <item itemvalue="Application.May_E_20" />
       </list>
     </recent_temporary>
   </component>
@@ -584,6 +518,7 @@
       <workItem from="1659862935967" duration="8867000" />
       <workItem from="1659929089231" duration="3630000" />
       <workItem from="1659954021487" duration="2005000" />
+      <workItem from="1660008402947" duration="9567000" />
     </task>
     <task id="LOCAL-00001" summary="4月的内容完结">
       <created>1651283981766</created>
@@ -652,39 +587,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tanxin_QujianChoose - 2022.04.27 at 11h 01m 31s.xml">
-      <configuration name="Tanxin.QujianChoose" configurationId="JUnit" />
+    <history-entry file="leet2193 - 2022.08.10 at 08h 21m 59s.xml">
+      <configuration name="leet2193" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tanxin_QujianChoose - 2022.04.27 at 11h 01m 38s.xml">
-      <configuration name="Tanxin.QujianChoose" configurationId="JUnit" />
+    <history-entry file="leet2193 - 2022.08.10 at 08h 22m 48s.xml">
+      <configuration name="leet2193" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tanxin_QujianChoose - 2022.04.27 at 11h 02m 06s.xml">
-      <configuration name="Tanxin.QujianChoose" configurationId="JUnit" />
+    <history-entry file="leet2193 - 2022.08.10 at 08h 27m 54s.xml">
+      <configuration name="leet2193" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Tanxin_QujianChoose - 2022.04.27 at 11h 02m 08s.xml">
-      <configuration name="Tanxin.QujianChoose" configurationId="JUnit" />
+    <history-entry file="leet2193 - 2022.08.10 at 08h 28m 12s.xml">
+      <configuration name="leet2193" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main2_sortArrayByParity - 2022.04.28 at 08h 06m 32s.xml">
-      <configuration name="Main2.sortArrayByParity" configurationId="JUnit" />
+    <history-entry file="leet2193 - 2022.08.10 at 08h 28m 21s.xml">
+      <configuration name="leet2193" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main2_sortArrayByParity - 2022.04.28 at 08h 06m 41s.xml">
-      <configuration name="Main2.sortArrayByParity" configurationId="JUnit" />
+    <history-entry file="leet2193 - 2022.08.10 at 08h 28m 52s.xml">
+      <configuration name="leet2193" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main2_sortArrayByParity - 2022.04.28 at 08h 07m 04s.xml">
-      <configuration name="Main2.sortArrayByParity" configurationId="JUnit" />
+    <history-entry file="leet2193_testM2 - 2022.08.10 at 08h 29m 11s.xml">
+      <configuration name="leet2193.testM2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main2_sortArrayByParity - 2022.04.28 at 08h 07m 23s.xml">
-      <configuration name="Main2.sortArrayByParity" configurationId="JUnit" />
+    <history-entry file="leet2193 - 2022.08.10 at 08h 31m 19s.xml">
+      <configuration name="leet2193" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Moni_String_testStrongPasswordChecker - 2022.05.03 at 19h 37m 17s.xml">
-      <configuration name="Moni_String.testStrongPasswordChecker" configurationId="JUnit" />
+    <history-entry file="leet2193 - 2022.08.10 at 08h 54m 35s.xml">
+      <configuration name="leet2193" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Moni_String_testStrongPasswordChecker - 2022.05.03 at 19h 38m 33s.xml">
-      <configuration name="Moni_String.testStrongPasswordChecker" configurationId="JUnit" />
+    <history-entry file="leet2193 - 2022.08.10 at 08h 55m 11s.xml">
+      <configuration name="leet2193" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289110000" />
+    <option name="totallyTimeSpent" value="298677000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -696,10 +631,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
+    <frame x="-7" y="-7" width="1508" height="900" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37957212" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38509318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -708,7 +643,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294271" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4140625" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4140625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -789,30 +724,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3132">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/ValidNumber3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/hardQ/may/VailidNumber4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/docs/HardQ.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -995,17 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="610" column="13" selection-start-line="610" selection-start-column="13" selection-end-line="610" selection-end-column="13" />
-          <folding>
-            <element signature="e#24331#24332#0" expanded="true" />
-            <element signature="e#24396#24397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/problemset/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1055,50 +955,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/graph/leet127.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../acwing/acwing.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/Graph/Acwing_1175.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/Graph/Tarjon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3240">
-          <caret line="94" column="19" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/Graph/Acwing_367.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/SuppressWarnings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/Graph.Bipartite">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1133,7 +989,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="94.5" y="34.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="95.0" y="35.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1168,7 +1024,7 @@
               <point x="0.0" y="23.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-73.5" y="72.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-73.0" y="72.0" />
           <SelectedNodes>
             <node>Graph.JudegeBfs</node>
           </SelectedNodes>
@@ -1235,16 +1091,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/graph/leet127.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/acwing.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/Graph/Acwing_1175.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/Graph/Tarjon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="94" column="19" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/Graph/Acwing_367.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/Graph/Bipartite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="105" column="29" lean-forward="true" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+        <state relative-caret-position="234">
+          <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1982#1983#0" expanded="true" />
             <element signature="e#2025#2026#0" expanded="true" />
-            <element signature="e#2415#2416#0" expanded="true" />
-            <element signature="e#2458#2459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1087" column="14" selection-start-line="1087" selection-start-column="14" selection-end-line="1087" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="1054" column="13" selection-start-line="1054" selection-start-column="13" selection-end-line="1054" selection-end-column="13" />
+          <folding>
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/TreeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/grady/leet2193.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2952">
+          <caret line="85" column="20" lean-forward="true" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
