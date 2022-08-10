@@ -256,7 +256,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="2262" />
@@ -518,7 +518,7 @@
       <workItem from="1659862935967" duration="8867000" />
       <workItem from="1659929089231" duration="3630000" />
       <workItem from="1659954021487" duration="2005000" />
-      <workItem from="1660008402947" duration="9567000" />
+      <workItem from="1660008402947" duration="10160000" />
     </task>
     <task id="LOCAL-00001" summary="4月的内容完结">
       <created>1651283981766</created>
@@ -619,7 +619,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298677000" />
+    <option name="totallyTimeSpent" value="299270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -631,7 +631,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1508" height="900" extended-state="7" />
+    <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38509318" />
@@ -643,7 +643,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294271" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4140625" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4140625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
