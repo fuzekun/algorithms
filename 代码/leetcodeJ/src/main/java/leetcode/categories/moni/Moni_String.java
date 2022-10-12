@@ -1,7 +1,7 @@
 package leetcode.categories.moni;
 
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

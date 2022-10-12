@@ -2,7 +2,11 @@
 
 
 
-
+| 题目                                                         | 知识点         | 难度 |
+| ------------------------------------------------------------ | -------------- | ---- |
+| [最大删除次数](https://leetcode.cn/problems/maximum-deletions-on-a-string/solution/zui-chang-by-man-qian-shu-xiao-ming-993z/) | 最长公共前缀   | 困难 |
+| [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/solution/zui-chang-hui-wen-zi-chuan-by-man-qian-s-4lgw/) | 最长回文子序列 | 中等 |
+| [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/solution/zui-chang-shang-sheng-zi-chuan-by-man-qi-fux5/) | 最长回文子串   | 中等 |
 
 
 

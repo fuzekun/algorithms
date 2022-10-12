@@ -22,7 +22,7 @@ public:
         while (j < m) {
             // printf("%d %d\n", j, k);
             if (k == -1 || s[j] == s[k]) {
-                if (s[++j] == s[++k]) nx[j] = nx[k];
+                if (j + 1 < m && s[++j] == s[++k]) nx[j] = nx[k];
                 else nx[j] = k;
             } else k = nx[k];
         }
