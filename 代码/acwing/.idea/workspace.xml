@@ -2,89 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36248652-48e7-4695-be7a-f37777aa3e77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/inputOfTravel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/binarySearch/leet911.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dp/leet698.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/acwing1047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/acwing1078_Travel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/acwing1078_Travel2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/acwing1217_Touzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/acwing1222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/acwing1226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/acwing_TreeOfLife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/CheckRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/HuiWen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/HuiwenJudge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/JinZhi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/KuoHaoDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/PassHuiWen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/QianNengOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/ShuiXianHua.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/StringOf01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/ZimuTuxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/findInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/base/readmd.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/constest13/longestSubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lanqiao/imporve/MinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/math/Quick_pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/data/int1d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/data/int1d_" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/data/int2d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/data/leetcode927" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/data/string1d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/data/string2d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/categories/dp/leet1254_TreeZhiJing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/contest/October/firstC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/Leet870.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/Leet927.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/leet1800.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/utils/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/test/java/leetcode/utils/ReadDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/competation/double87.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/competation/single244.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/competation/single310.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/competation/single311.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/dp/leet698.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/grady/lcp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/grady/leet1686.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/grady/leet6202" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/grady/leet6202.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/graph/leet1976.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/graph/leet2421.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/math/leet1303fib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/math/leet788.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcodeP/math/leet911.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/KMP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcodeJ/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcodeJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcodeJ/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcodeJ/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/categories/moni/Moni_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/categories/moni/Moni_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcodeJ/target/classes/leetcode/categories/moni/Moni_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/target/classes/leetcode/categories/moni/Moni_String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcodeP/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeP/.idea/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcodeP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeP/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/dp/动态规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/dp/动态规划.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/dp/字符串dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/dp/字符串dp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/dp/状态机模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/dp/状态机模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/基础算法/二分.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/基础算法/二分.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/基础算法/并查集.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/基础算法/并查集.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/基础算法/滑动窗口.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/基础算法/滑动窗口.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/基础算法/贪心.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/基础算法/贪心.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/字符串/Trie树 + AC自动机.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/字符串/Trie树 + AC自动机.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/数据结构/Trie树 + AC自动机.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/数据结构/Trie树 + AC自动机.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/数据结构/栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/数据结构/栈.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../算法总结/题目索引.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/题目索引.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法总结/dp/数位dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/dp/数位dp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../题解/leetcode/leet 2318 dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../题解/leetcode/leet 2318 dp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../题解/蓝桥杯/基础练习.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../题解/蓝桥杯/基础练习.md" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,115 +13,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1226.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1135">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing_1303_fib.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-55">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1047.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-199">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1078_Travel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="21" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1078_Travel2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1217_Touzi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1222.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/files/inputOfTravel.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/CheckRun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/HuiWen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -212,48 +24,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/base/readme" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/doc/dp.md" />
-        <option value="$PROJECT_DIR$/src/main/java/search/Number8.java" />
-        <option value="$PROJECT_DIR$/src/doc/search.md" />
-        <option value="$PROJECT_DIR$/src/main/java/Graph/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Graph/acwing_367.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Graph/Tarjon.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Graph/Acwing_367.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/acwing1047.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/acwing1222.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/JinZhi.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/readmd.md" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/HuiWen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/QianNengOfNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/Quick_pow.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/HuiwenJudge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/KuoHaoDP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/PassHuiWen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/ShuiXianHua.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/findInt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/base/findInt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/base/CheckRun.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/base/ZimuTuxing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/base/StringOf01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/imporve/MinString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/acwing_TreeOfLife.java" />
-        <option value="$PROJECT_DIR$/src/files/inputOfTravel.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/acwing1078_Travel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/acwing1078_Travel2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/acwing1226.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/base/readmd.md" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/constest13/longestSubSequence.java" />
-        <option value="$PROJECT_DIR$/src/main/java/contest/leet314.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lanqiao/acwing_1303_fib.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -262,110 +32,32 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="acwing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="acwing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="acwing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="acwing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="acwing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="junit:junit:4.12" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="2262" />
     <option name="height" value="1350" />
   </component>
+  <component name="ProjectId" id="2Jj1N0zfcERoKKI36KmvlSnoKD8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="acwing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acwing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="acwing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acwing" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="acwing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acwing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="acwing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acwing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="acwing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acwing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="acwing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acwing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lanqiao" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcodeJ" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -373,25 +65,13 @@
       <recent name="D:\projects\algorithm\代码\acwing\src\main\java\lanqiao\base" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.longestSubSequence">
-    <configuration name="acwing1078_Travel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lanqiao.acwing1078_Travel" />
+  <component name="RunManager" selected="Maven.acwing []">
+    <configuration name="CheDeFangZhi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.imporve.CheDeFangZhi" />
       <module name="acwing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lanqiao.*" />
+          <option name="PATTERN" value="lanqiao.imporve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="acwing1078_Travel2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lanqiao.acwing1078_Travel2" />
+    <configuration name="NaShenBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.imporve.NaShenBalance" />
       <module name="acwing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lanqiao.*" />
+          <option name="PATTERN" value="lanqiao.imporve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZhanMuGun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.imporve.ZhanMuGun" />
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lanqiao.imporve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -438,22 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="acwing1078_Travel.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="acwing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lanqiao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lanqiao" />
-      <option name="MAIN_CLASS_NAME" value="lanqiao.acwing1078_Travel" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="acwing []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -478,22 +155,34 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.acwing1078_Travel" />
-      <item itemvalue="Application.acwing1078_Travel2" />
       <item itemvalue="Application.acwing1226" />
       <item itemvalue="Application.longestSubSequence" />
-      <item itemvalue="JUnit.acwing1078_Travel.test" />
+      <item itemvalue="Application.NaShenBalance" />
+      <item itemvalue="Application.ZhanMuGun" />
+      <item itemvalue="Application.CheDeFangZhi" />
       <item itemvalue="Maven.acwing []" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheDeFangZhi" />
+        <item itemvalue="Application.ZhanMuGun" />
+        <item itemvalue="Application.NaShenBalance" />
         <item itemvalue="Application.longestSubSequence" />
         <item itemvalue="Application.acwing1226" />
-        <item itemvalue="Application.acwing1078_Travel2" />
-        <item itemvalue="Application.acwing1078_Travel" />
-        <item itemvalue="JUnit.acwing1078_Travel.test" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -525,6 +214,11 @@
       <workItem from="1665197561747" duration="4209000" />
       <workItem from="1665282722484" duration="513000" />
       <workItem from="1665375193092" duration="1612000" />
+      <workItem from="1665540425999" duration="12611000" />
+      <workItem from="1665578711604" duration="680000" />
+      <workItem from="1665626355200" duration="6991000" />
+      <workItem from="1665636999172" duration="147000" />
+      <workItem from="1672576635860" duration="258000" />
     </task>
     <task id="LOCAL-00001" summary="acwing工程建立">
       <created>1651287681774</created>
@@ -557,47 +251,6 @@
       <configuration name="acwing1078_Travel.test" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73627000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32643202" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3294271" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997396" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.30949286" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3294271" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
-      <window_info anchor="bottom" id="Log Analyzer" order="14" />
-      <window_info anchor="bottom" id="SOQL Query" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24965517" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.32965517" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="leetcode" order="9" side_tool="true" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -605,20 +258,53 @@
     <MESSAGE value="acwing工程建立" />
     <option name="LAST_COMMIT_MESSAGE" value="acwing工程建立" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="105" key="#Illuminated_Cloud" timestamp="1672576638768">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state x="340" y="105" key="#Illuminated_Cloud/0.0.1493.885@0.0.1493.885" timestamp="1672576638768" />
+    <state x="528" y="202" key="FileChooserDialogImpl" timestamp="1672576849022">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state x="528" y="202" key="FileChooserDialogImpl/0.0.1493.885@0.0.1493.885" timestamp="1672576849022" />
+    <state width="1449" height="230" key="GridCell.Tab.0.bottom" timestamp="1672576896002">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state width="1449" height="230" key="GridCell.Tab.0.bottom/0.0.1493.885@0.0.1493.885" timestamp="1672576896002" />
+    <state width="1449" height="230" key="GridCell.Tab.0.center" timestamp="1672576896001">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state width="1449" height="230" key="GridCell.Tab.0.center/0.0.1493.885@0.0.1493.885" timestamp="1672576896001" />
+    <state width="1449" height="230" key="GridCell.Tab.0.left" timestamp="1672576896001">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state width="1449" height="230" key="GridCell.Tab.0.left/0.0.1493.885@0.0.1493.885" timestamp="1672576896001" />
+    <state width="1449" height="230" key="GridCell.Tab.0.right" timestamp="1672576896002">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state width="1449" height="230" key="GridCell.Tab.0.right/0.0.1493.885@0.0.1493.885" timestamp="1672576896002" />
+    <state x="251" y="42" key="SettingsEditor" timestamp="1672576809587">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state x="251" y="42" key="SettingsEditor/0.0.1493.885@0.0.1493.885" timestamp="1672576809587" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1078_Travel2.java</url>
           <line>98</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/lanqiao/constest13/longestSubSequence.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lanqiao/imporve/ZhanMuGun.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -636,456 +322,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Graph/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/base/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/doc/dp.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="684">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Graph/Acwing_367.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134172">
-          <caret line="3798" column="19" selection-start-line="3798" selection-start-column="19" selection-end-line="3798" selection-end-column="19" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/search/Number8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/base/tanxin/Tanxin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Graph/Tarjon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="304" lean-forward="true" selection-start-line="304" selection-end-line="304" />
-          <folding>
-            <element signature="e#21679#21680#0" expanded="true" />
-            <element signature="e#21750#21751#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
-          <folding>
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3750">
-          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/doc/search.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/QianNengOfNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/Quick_pow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/BufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8748">
-          <caret line="268" column="23" selection-start-line="268" selection-start-column="23" selection-end-line="268" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/JinZhi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/HuiwenJudge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/PassHuiWen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-487">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/KuoHaoDP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="66" column="42" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/ShuiXianHua.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="150" column="11" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/findInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/ZimuTuxing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2844">
-          <caret line="80" column="29" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/StringOf01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/imporve/MinString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/contest/leet314.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/readmd.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/constest13/longestSubSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1872">
-          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing_TreeOfLife.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/inputOfTravel.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/CheckRun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/base/HuiWen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1047.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-199">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1078_Travel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="21" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1078_Travel2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1217_Touzi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1222.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing1226.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1135">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lanqiao/acwing_1303_fib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>acwing</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

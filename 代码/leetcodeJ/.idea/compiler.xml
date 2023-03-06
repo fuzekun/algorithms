@@ -6,13 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="algoLiu" />
         <module name="algorithm" />
         <module name="acwing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="acwing" target="1.8" />
+      <module name="algoLiu" target="1.8" />
       <module name="algorithm" target="1.8" />
+      <module name="lanqiao" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

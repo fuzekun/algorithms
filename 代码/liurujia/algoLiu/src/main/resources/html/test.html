@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+</head>
+<body>
+
+
+
+<button onclick="like()">喜欢</button>
+<button onclick="dislike()">不喜欢</button>
+<ul>
+    <b id="id1"></b>
+</ul>
+</body>
+<script>
+    function like() {
+        // alert("点击成功");
+        document.getElementById("id1").innerHTML = "点赞成功";
+        document.getElementById("id1").style.display = "inline";
+    }
+    function dislike() {
+        // alert("点击成功");
+        $("#id1").hide();               // 这里修改了display方法
+        // document.getElementById("id1").style.display = "none";
+    }
+
+</script>
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js">
+</script>
+</html>
+
+<!--<html>-->
+<!--<head>-->
+<!--    <meta charset='utf-8'>-->
+<!--</head>-->
+<!--<body>-->
+<!--<p id='targetp' > 这是一行测试文字</p>-->
+<!--<button onclick=showp('targetp') >显示</button>-->
+<!--<button onclick=hidep('targetp')  >隐藏</button>-->
+<!--<script>-->
+<!--    function showp(id){-->
+<!--        document.getElementById(id).style.display='inline';-->
+<!--    }-->
+<!--    function hidep(id){-->
+<!--        document.getElementById(id).style.display='none';-->
+<!--    }-->
+<!--</script>-->
+<!--</body>-->
+<!--</html>-->

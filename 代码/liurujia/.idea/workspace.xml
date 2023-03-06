@@ -2,20 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da012e8-dee0-478c-92c6-7af848e12de8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/Graph/Acwing_367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/Graph/Tarjon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/problemset/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/java/leetcode/problemset/leetcode/editor/cn/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoLiu/src/main/java/chapter9/Spayder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/files/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/files/strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/dp/LongestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/dp/Takahashi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/Eimprove/MimiXingDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest/FirstC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/BigIntegerM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/Bijiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/CalCulate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/CheDeFangZhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/DianOf24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/FeiBoNaQie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/GongXian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/GuoHeMa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/Jinjideqingwa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/JuZhenDeZhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/LuckySell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/MaxFenJie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/Mian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/NCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/NaShenBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/P802.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/QiangLiDang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/ShiBingShaDi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/ShuPingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/ShuZuYiDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/Sticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/StringCondese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/Tongyu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/WeiJiOfxxx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/WeiYiDeShaZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/YiDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/YinNi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/ZhanMuGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/Euler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/Euler0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/ExtendGcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/FanXing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/Gause.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/JieChengFenJie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/QiuZuoBiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/ShaiZhiShuYinZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/SuShuShai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/math/YiHuoFangCheng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/resources/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/resources/nginx.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/atCoder/Count_Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/contest/Nowanber/firstContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/contest/October/Sec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/contest/October/SecondS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/contest/October/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/contest/October/ThirdS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/contest/October/third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/Nowanber/E11_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/Nowanber/Leet754.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/Nowanber/leet1668.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/MaxChuncks_leet768.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/MaxChunks_l33t769.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/Test1024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/leet1235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/leet779.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/leet866_dislike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/leet902.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/java/leetcode/everyDay/October/leet940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/resources/https.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/resources/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJ/src/main/resources/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeP/competation/Single318.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/target/classes/leetcode/everyDay/May/May_E_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/target/classes/leetcode/everyDay/May/May_E_21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/target/classes/leetcode/everyDay/May/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/files/inputOfTravel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/files/inputOfTravel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/acwing1217_Touzi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/acwing1217_Touzi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/acwing_1303_fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/FibQuick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/src/main/java/string/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/src/main/java/string/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/target/classes/lanqiao/acwing1217_Touzi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/target/classes/lanqiao/acwing1217_Touzi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/target/classes/lanqiao/acwing_1303_fib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/target/classes/string/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/target/classes/string/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcodeJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcodeJ/data/int1d" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/data/int1d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcodeJ/data/int1d_" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/data/int1d_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcodeJ/data/string1d" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcodeJ/data/string1d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoLiu/algoLiu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algoLiu/algoLiu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoLiu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algoLiu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法总结/dp/数位dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/dp/数位dp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../题解/leetcode/leet 2318 dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../题解/leetcode/leet 2318 dp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../题解/蓝桥杯/基础练习.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../题解/蓝桥杯/基础练习.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/algoLiu/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +103,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algoLiu/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="108">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -59,7 +133,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algoLiu/src/main/java/chapter9/Spayder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="89">
@@ -74,8 +148,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spyder.out">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1620">
-              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="108">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -83,7 +157,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/PrintStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="24552">
               <caret line="733" column="16" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
             </state>
           </provider>
@@ -99,16 +173,16 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algoLiu/pom.xml" />
         <option value="$PROJECT_DIR$/algoLiu/src/main/java/chapter8/readme.md" />
         <option value="$PROJECT_DIR$/algoLiu/src/main/java/chapter8/homework/Copying_books.java" />
         <option value="$PROJECT_DIR$/spyder.out" />
         <option value="$PROJECT_DIR$/algoLiu/src/main/java/chapter9/Spayder.java" />
+        <option value="$PROJECT_DIR$/algoLiu/pom.xml" />
       </list>
     </option>
   </component>
@@ -141,7 +215,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,16 +227,11 @@
               <item name="liurujia" type="462c0819:PsiDirectoryNode" />
               <item name="algoLiu" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="liurujia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liurujia" type="462c0819:PsiDirectoryNode" />
-              <item name="algoLiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,7 +239,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -224,23 +292,23 @@
       <workItem from="1653445271694" duration="2442000" />
       <workItem from="1653478929004" duration="607000" />
       <workItem from="1659512989155" duration="6986000" />
+      <workItem from="1668909172269" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10035000" />
+    <option name="totallyTimeSpent" value="10096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1508" height="900" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49902913" visible="true" weight="0.25672877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49902913" visible="true" weight="0.26017943" />
       <window_info id="Structure" order="1" sideWeight="0.5009709" side_tool="true" weight="0.25672877" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3294271" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3294271" />
@@ -256,7 +324,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="SOQL Query" order="14" />
-      <window_info anchor="right" id="leetcode" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3294271" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -266,6 +334,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="leetcode" order="9" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,20 +344,6 @@
     <entry file="file://$PROJECT_DIR$/algoLiu/src/main/java/chapter8/HomeWork.java" />
     <entry file="file://$PROJECT_DIR$/algoLiu/algoLiu.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="733" column="16" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algoLiu/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoLiu/src/main/java/chapter8/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -309,8 +364,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spyder.out">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1620">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="108">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24552">
+          <caret line="733" column="16" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -321,6 +383,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algoLiu/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>

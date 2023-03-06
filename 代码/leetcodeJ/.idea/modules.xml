@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../acwing/acwing.iml" filepath="$PROJECT_DIR$/../acwing/acwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../liurujia/algoLiu/algoLiu.iml" filepath="$PROJECT_DIR$/../liurujia/algoLiu/algoLiu.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
     </modules>
   </component>

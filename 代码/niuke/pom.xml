@@ -6,7 +6,11 @@
 
     <groupId>algorithm</groupId>
     <artifactId>niuke</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>lanqiao</module>
+    </modules>
 
     <dependencies>
         <dependency>
