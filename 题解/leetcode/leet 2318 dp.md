@@ -1,6 +1,6 @@
 
 
-#### [2318. 不同骰子序列的数目](https://leetcode.cn/problems/number-of-distinct-roll-sequences/)
+# [2318. 不同骰子序列的数目](https://leetcode.cn/problems/number-of-distinct-roll-sequences/)
 
 ### 解题思路
 
