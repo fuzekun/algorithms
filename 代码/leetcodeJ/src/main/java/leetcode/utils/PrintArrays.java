@@ -9,57 +9,67 @@ public class PrintArrays {
     private PrintArrays() {}
 
     public static void print2DIntArray(int[][] arr) {
-        if (arr.length == 0) {
-            System.out.println("[]");
-            return ;
-        }
-        int n = arr.length, m = arr[0].length;
         System.out.print('[');
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < arr.length; i++) {
             System.out.print('[');
-            for (int j = 0; j < m; j++) {
+            for (int j = 0; j < arr[i].length; j++) {
                 System.out.print(arr[i][j]);
-                if (j != m - 1) System.out.print(',');
+                if (j != arr[i].length - 1) System.out.print(',');
                 else System.out.print(']');
             }
-            if (i != n - 1) System.out.println(',');
-            else System.out.println(']');
+            if (i != arr.length - 1) System.out.print(',');
         }
+        System.out.println("]");
     }
     public static void print1DIntArray(int[] arr) {
         System.out.print("[");
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i]);
             if (i != arr.length - 1) System.out.print(",");
-            else System.out.println("]");
         }
+        System.out.println("]");
     }
+    public static void print3DIntArray(int[][][] arr) {
+        System.out.print("[");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print("[");
+            for (int j = 0; j < arr[i].length; j++) {
+                System.out.print("[");
+                for (int k = 0; k < arr[j].length; k++) {
+                    System.out.print(String.format("%d", arr[i][j][k]));
+                    if (k != arr[j].length - 1) System.out.printf(",");
+                    else System.out.printf("]");
+                }
+                if (j != arr[i].length - 1) System.out.printf(",");
+                else System.out.printf("]");
+            }
+            if (i != arr.length - 1) System.out.printf(",");
+        }
+        System.out.println("]");
+    }
+
 
     public static void print1DObjArray(Object[] arr) {
         System.out.print("[");
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i]);
             if (i != arr.length - 1) System.out.print(",");
-            else System.out.println("]");
         }
+        System.out.println("]");
     }
 
     public static void print2DObjArray(Object[][] arr) {
-        if (arr.length == 0) {
-            throw new RuntimeException("必须是二维数组啊，亲人");
-        }
-        int n = arr.length, m = arr[0].length;
         System.out.print('[');
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < arr.length; i++) {
             System.out.print('[');
-            for (int j = 0; j < m; j++) {
+            for (int j = 0; j < arr[i].length; j++) {
                 System.out.print(arr[i][j]);
-                if (j != m - 1) System.out.print(',');
+                if (j != arr[i].length - 1) System.out.print(',');
                 else System.out.print(']');
             }
-            if (i != n - 1) System.out.print(',');
-            else System.out.println(']');
+            if (i != arr.length - 1) System.out.print(',');
         }
+        System.out.println("]");
     }
 
 

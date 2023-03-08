@@ -20,7 +20,7 @@ public class ReadDataTest {
 
     @Test
     public void testGet2Darray() throws Exception{
-        PrintArrays.print2DIntArray(ReadData.get2DArray());
+        PrintArrays.print2DIntArray(ReadData.get2DIntArray());
     }
     @Test
     public void testGet2DStringarray() throws Exception{

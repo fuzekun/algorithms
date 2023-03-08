@@ -97,7 +97,7 @@ public class firstC {
     }
     public static void main(String[] args)throws Exception {
         firstC l = new firstC();
-        int[][] arr2 = ReadData.get2DArray();
+        int[][] arr2 = ReadData.get2DIntArray();
 //        System.out.println(l.hardestWorker(26,  arr2));
 //        int [] arr1 = ReadData.getArray();
 //        PrintArrays.print1DIntArray(l.findArray(arr1));

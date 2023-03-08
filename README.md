@@ -7,8 +7,15 @@ lc叶良辰的刷题日记。
 1. Java、python、cpp的算法模板
 2. 题目的分类
 3. 题目的代码
+3. 一些刷题工具
 
 
+
+
+
+## 方便leetcode刷题目的工具
+
+- [工具类介绍](https://github.com/fuzekun/algorithms/tree/master/%E4%BB%A3%E7%A0%81/leetcodeJ/src/main/java/leetcode/utils)
 
 
 

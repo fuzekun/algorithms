@@ -44,7 +44,7 @@ public class leet1254_TreeZhiJing {
         return ans;
     }
     public static void main(String[] args) throws Exception{
-        System.out.println(new leet1254_TreeZhiJing().treeDiameter(ReadData.get2DArray()));
+        System.out.println(new leet1254_TreeZhiJing().treeDiameter(ReadData.get2DIntArray()));
 
     }
 }

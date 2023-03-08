@@ -13,38 +13,21 @@ import java.util.Arrays;
  * @author: Zekun Fu
  * @date: 2022/10/7 11:24
  * @Description:
+ *
+ * 方便leetcode测试，直接将数据放到data/int1d中，然后调用getArray()就可以获取到数组了
+ * 同理，2维和三维也一样。
+ * 还有提供文件名的方法，如果需要两个一维数组，可以使用getArray()读取，然后使用getArray("int1d_")读取
  */
 public class ReadData {
 
-    /*
-    *
-    *
-    *   leetcode的输入基本上都是数组。
-    * 不管是复杂还是简单的数据结构，大都可以使用数组来描述。
-    * 比如图、树等等。
-    * 所以如果想要快速读取数据，直接写好读取数组，就很方便。
-    *
-    * 需求2：怎么进行多行测试呢?
-    *
-    * */
-
-
-
-//    @DataProvider(name = "1darray")
-//    public static Object[] getArray() throws Exception {
-//        int[] o= getArray("int1d");
-//        Object[] ans = new Object[o.length];
-//        for (int i = 0; i < ans.length; i++) {
-//            ans[i] = o[i];
-//        }
-//        return ans;
-////        return getArray("int1d");
-//    }
     public static int[] getArray() throws Exception {
         return getArray("int1d");
     }
-    public static int[][] get2DArray() throws Exception {
-        return get2DArray("int2d");
+    public static int[][] get2DIntArray() throws Exception {
+        return get2DIntArray("int2d");
+    }
+    public static int[][][] get3DIntArray() throws Exception {
+        return get3DIntArray("int3d");
     }
     public static String[][] get2DStringArray() throws Exception {
         return get2DStringArray("string2d");
@@ -62,11 +45,17 @@ public class ReadData {
         return ChangeToArrayOrList.changTo1DIntArray(data);
     }
 
-    public static int[][] get2DArray(String name) throws Exception {
+    public static int[][] get2DIntArray(String name) throws Exception {
         String path = "data/" + name;
         BufferedReader bf = new BufferedReader(new FileReader(new File(path)));
         String data = bf.readLine();
         return ChangeToArrayOrList.changeTo2DIntArray(data);
+    }
+    public static int[][][]get3DIntArray(String name) throws Exception {
+        String path = "data/" + name;
+        BufferedReader bf = new BufferedReader(new FileReader(new File(path)));
+        String data = bf.readLine();
+        return ChangeToArrayOrList.changeTo3DIntArray(data);
     }
 
     public static String[][] get2DStringArray(String name) throws Exception {
