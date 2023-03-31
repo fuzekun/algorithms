@@ -1,43 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../算法总结/dp/数位dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/dp/数位dp.md" afterDir="false" />
     </list>
+=======
+    <list default="true" id="3bd8a68b-d00a-48e2-8eac-7412eb8f916d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing3729.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing797.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/contest/sanyue/Forth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acwing/acwing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../acwing/acwing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/categories/dp/Leet516.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/categories/dp/Leet516.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../acwing/target/" />
+    <ignored path="$PROJECT_DIR$/../niuke/target/" />
+    <ignored path="$PROJECT_DIR$/../niuke/lanqiao/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> 3e147c2c24e722f34e6473d6bba6a83f1b12d4b4
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="293" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="FavoritesManager">
     <favorites_list name="leetcodeJ" />
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/queue/Leet209.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/queue/Leet862.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/sanyue/Forth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing3729.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing798.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing797.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="24" column="28" lean-forward="true" selection-end-line="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> 3e147c2c24e722f34e6473d6bba6a83f1b12d4b4
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -45,73 +127,174 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IlluminatedCloudWorkspaceSettings">
-    <option name="projectWorkspaceSettings">
-      <ProjectWorkspaceSettings>
-        <option name="logAnalyzerSettings">
-          <LogAnalyzerSettings>
-            <option name="selectedTabIndex" value="1" />
-          </LogAnalyzerSettings>
-        </option>
-      </ProjectWorkspaceSettings>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/contest/sanyue/Forth.java" />
+        <option value="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing3729.java" />
+        <option value="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing798.java" />
+        <option value="$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing797.java" />
+      </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/usersoftware/java/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="D:\usersoftware\java\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="localRepository" value="D:\data\.m\repository" />
+        <option name="mavenHome" value="H:/usersoftware/java/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="H:\usersoftware\java\maven\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2FO4HvLVUR5ncbHZXpgs37ANdCX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1140" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acwing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acwing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acwing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acwing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acwing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lanqiao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acwing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lanqiao" type="462c0819:PsiDirectoryNode" />
+              <item name="contest_pre" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeJ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="contest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="contest" type="462c0819:PsiDirectoryNode" />
+              <item name="sanyue" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../java/javaHub/projects/niukeP/demo/2_springdemo/demo1" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 3e147c2c24e722f34e6473d6bba6a83f1b12d4b4
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\projects\algorithm\leetcode\src\main\java\leetcode\docs" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leetcode.categories.dp" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\projects\algorithm\代码\niuke\lanqiao\src\main\java" />
-      <recent name="D:\projects\algorithm\代码\leetcodeJ\src\main\resources" />
-      <recent name="D:\projects\algorithm\leetcode\src\main\java\leetcode\contest" />
-      <recent name="D:\projects\algorithm\leetcode\src\main\java\leetcode\everyDay" />
-      <recent name="D:\projects\algorithm\leetcode\src\main\java\leetcode\utils" />
-    </key>
-  </component>
-  <component name="RubyModuleManagerSettings">
-    <option name="blackListedRootsPaths">
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <option value="$PROJECT_DIR$/../niuke/lanqiao" />
-        <option value="$PROJECT_DIR$/../niuke" />
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Acwing3956_sum">
     <configuration name="Acwing1072" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lanqiao.chongci.Acwing1072" />
@@ -119,6 +302,25 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lanqiao.chongci.*" />
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.Acwing797">
+    <configuration name="Acwing3729" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.contest_pre.Acwing3729" />
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lanqiao.contest_pre.*" />
+=======
+  <component name="RunManager" selected="Application.Acwing338_numdp">
+    <configuration name="Acwing1084_numdp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.Acwing1084_numdp" />
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+>>>>>>> c839f5858b399b98bd7b8bb783f046bda4e09af9
+>>>>>>> 3e147c2c24e722f34e6473d6bba6a83f1b12d4b4
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +328,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Acwing1220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lanqiao.chongci.Acwing1220" />
       <module name="acwing" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lanqiao.chongci.*" />
+=======
+<<<<<<< HEAD
+    <configuration name="Acwing797" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.contest_pre.Acwing797" />
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lanqiao.contest_pre.*" />
+=======
+    <configuration name="Acwing1085_numdp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.Acwing1085_numdp" />
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+>>>>>>> c839f5858b399b98bd7b8bb783f046bda4e09af9
+>>>>>>> 3e147c2c24e722f34e6473d6bba6a83f1b12d4b4
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,8 +359,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Acwing323" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lanqiao.chongci.Acwing323" />
+=======
+<<<<<<< HEAD
+    <configuration name="Acwing798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.contest_pre.Acwing798" />
+      <module name="acwing" />
+=======
+    <configuration name="Acwing338_numdp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.Acwing338_numdp" />
+>>>>>>> 3e147c2c24e722f34e6473d6bba6a83f1b12d4b4
       <module name="acwing" />
       <extension name="coverage">
         <pattern>
@@ -168,9 +398,36 @@
     <configuration name="Niubi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.contest.sanyue.Niubi" />
       <module name="algorithm" />
+>>>>>>> c839f5858b399b98bd7b8bb783f046bda4e09af9
+      <extension name="coverage">
+        <pattern>
+<<<<<<< HEAD
+          <option name="PATTERN" value="leetcode.contest.sanyue.*" />
+=======
+          <option name="PATTERN" value="lanqiao.contest_pre.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="Forth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest.sanyue.Forth" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.contest.sanyue.*" />
+=======
+    <configuration name="Leet_numDp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.categories.dp.Leet_numDp" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.categories.dp.*" />
+>>>>>>> c839f5858b399b98bd7b8bb783f046bda4e09af9
+>>>>>>> 3e147c2c24e722f34e6473d6bba6a83f1b12d4b4
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,36 +437,46 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Acwing3956_sum" />
         <item itemvalue="Application.Acwing1220" />
         <item itemvalue="Application.Acwing323" />
         <item itemvalue="Application.Niubi" />
         <item itemvalue="Application.Acwing1072" />
+=======
+<<<<<<< HEAD
+        <item itemvalue="Application.Acwing797" />
+        <item itemvalue="Application.Acwing798" />
+        <item itemvalue="Application.Acwing3729" />
+        <item itemvalue="Application.Forth" />
+=======
+        <item itemvalue="Application.Acwing338_numdp" />
+        <item itemvalue="Application.Leet233_numdp" />
+        <item itemvalue="Application.Acwing1084_numdp" />
+        <item itemvalue="Application.Acwing1085_numdp" />
+        <item itemvalue="Application.Leet_numDp" />
+>>>>>>> c839f5858b399b98bd7b8bb783f046bda4e09af9
+>>>>>>> 3e147c2c24e722f34e6473d6bba6a83f1b12d4b4
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="" />
-      <created>1650067756057</created>
+      <changelist id="3bd8a68b-d00a-48e2-8eac-7412eb8f916d" name="Default Changelist" comment="" />
+      <created>1678546716061</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
+      <updated>1678546716061</updated>
+      <workItem from="1678546719224" duration="1003000" />
+      <workItem from="1679193356925" duration="4873000" />
+      <workItem from="1679567473515" duration="604000" />
+      <workItem from="1679712261345" duration="607000" />
+      <workItem from="1680102077730" duration="5846000" />
+=======
       <updated>1650067756057</updated>
       <workItem from="1650067758679" duration="8171000" />
       <workItem from="1650092538917" duration="1986000" />
@@ -392,6 +659,7 @@
       <workItem from="1679132588865" duration="388000" />
       <workItem from="1679219380033" duration="1079000" />
       <workItem from="1679231232879" duration="3072000" />
+<<<<<<< HEAD
       <workItem from="1679274694065" duration="18750000" />
       <workItem from="1679306707033" duration="10832000" />
       <workItem from="1679360335758" duration="10118000" />
@@ -401,117 +669,56 @@
       <workItem from="1679741898863" duration="3672000" />
       <workItem from="1679825329921" duration="27843000" />
       <workItem from="1679964890606" duration="25821000" />
+=======
+      <workItem from="1679274694065" duration="17884000" />
+>>>>>>> c839f5858b399b98bd7b8bb783f046bda4e09af9
+>>>>>>> 3e147c2c24e722f34e6473d6bba6a83f1b12d4b4
     </task>
-    <task id="LOCAL-00001" summary="4月的内容完结">
-      <created>1651283981766</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1651283981766</updated>
-    </task>
-    <task id="LOCAL-00002" summary="增加leetcode按照知识点分类刷题。">
-      <created>1651478316630</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1651478316630</updated>
-    </task>
-    <task id="LOCAL-00003" summary="试一下readMe">
-      <created>1651480068306</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1651480068306</updated>
-    </task>
-    <task id="LOCAL-00004" summary="试一下readMe">
-      <created>1651484636680</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1651484636680</updated>
-    </task>
-    <task id="LOCAL-00005" summary="试一下readMe">
-      <created>1651484749115</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1651484749116</updated>
-    </task>
-    <task id="LOCAL-00006" summary="增加每日一题的readme">
-      <created>1651485093315</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1651485093315</updated>
-    </task>
-    <task id="LOCAL-00007" summary="周赛的readme文件">
-      <created>1651485370309</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1651485370309</updated>
-    </task>
-    <task id="LOCAL-00008" summary="完成一场双周赛">
-      <created>1651840067606</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1651840067607</updated>
-    </task>
-    <task id="LOCAL-00009" summary="大数据的第一个算法">
-      <created>1651920068166</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1651920068166</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="leet1800 - 2022.10.07 at 14h 53m 31s.xml">
-      <configuration name="leet1800" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ReadData_maxAscendingSum - 2022.10.07 at 14h 54m 06s.xml">
-      <configuration name="ReadData.maxAscendingSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ReadDataTest_maxAscendingSum - 2022.10.07 at 14h 54m 37s.xml">
-      <configuration name="ReadDataTest.maxAscendingSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ReadDataTest_maxAscendingSum - 2022.10.07 at 14h 55m 02s.xml">
-      <configuration name="ReadDataTest.maxAscendingSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ReadDataTest_maxAscendingSum - 2022.10.07 at 14h 55m 13s.xml">
-      <configuration name="ReadDataTest.maxAscendingSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ReadDataTest_maxAscendingSum - 2022.10.07 at 14h 56m 49s.xml">
-      <configuration name="ReadDataTest.maxAscendingSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ReadDataTest_maxAscendingSum - 2022.10.07 at 14h 57m 04s.xml">
-      <configuration name="ReadDataTest.maxAscendingSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="leet1800_maxAscendingSum - 2022.10.07 at 15h 00m 31s.xml">
-      <configuration name="leet1800.maxAscendingSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="leet1800_maxAscendingSum - 2022.10.07 at 15h 00m 35s.xml">
-      <configuration name="leet1800.maxAscendingSum" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="leet1800_maxAscendingSum - 2022.10.07 at 15h 06m 38s.xml">
-      <configuration name="leet1800.maxAscendingSum" configurationId="TestNG" />
-    </history-entry>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12933000" />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="readme" />
   </component>
@@ -626,443 +833,39 @@
     <state x="2943" y="251" width="1153" height="1067" key="search.everywhere.popup/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678593039961" />
     <state x="410" y="187" width="673" height="679" key="search.everywhere.popup/0.0.1493.885@0.0.1493.885" timestamp="1679918517834" />
   </component>
+>>>>>>> c839f5858b399b98bd7b8bb783f046bda4e09af9
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/October/Leet927.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/October/Leet927.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/leet1254_TreeZhiJing.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/DianOf24.java</url>
-          <line>80</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/ShiBingShaDi.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/ShiBingShaDi.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/ShiBingShaDi.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/Test.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/Test.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/October/leet940.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/October/leet866_dislike.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/string/KMP.java</url>
-          <line>65</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/October/leet779.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/October/leet1235.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/October/leet1235.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/October/leet1235.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/October/third.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/October/third.java</url>
-          <line>96</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/October/third.java</url>
-          <line>70</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/October/third.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/P802.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/CalCulate.java</url>
-          <line>68</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/Bijiao.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/WeiYiDeShaZi.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/ShuZuYiDong.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/October/Test.java</url>
-          <line>124</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/GongXian.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/Nowanber/Leet754.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/math/SuShuShai.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/Nowanber/firstContest.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/math/ExtendGcd.java</url>
-          <line>1</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/math/ExtendGcd.java</url>
-          <line>172</line>
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/Nowanber/E11_18.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/Nowanber/E11_18.java</url>
-          <line>172</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/Nowanber/E11_18.java</url>
-          <line>128</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/YinZhang.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../liurujia/algoLiu/src/main/java/chapter9/TowerOfBabylon_Uva437.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../liurujia/algoLiu/src/main/java/chapter9/TowerOfBabylon_Uva437.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../liurujia/algoLiu/src/main/java/chapter9/TowerOfBabylon_Uva437.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/December/E_1_6.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/imporve/ZiXingChe.java</url>
-          <line>217</line>
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/Acwing1277.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/Acwing_246.java</url>
-          <line>71</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/Acwing_246.java</url>
-          <line>113</line>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/Acwing_246.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="104" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/Acwing_246.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/sanyue/Forth.java</url>
           <line>49</line>
-          <option name="timeStamp" value="105" />
+          <properties />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/acwing_245.java</url>
-          <line>92</line>
-          <option name="timeStamp" value="110" />
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing798.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/acwing_245.java</url>
-          <line>69</line>
-          <option name="timeStamp" value="114" />
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing798.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/acwing_245.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="118" />
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing797.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/yiyue/Leet_contest_333.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="122" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dataStructure/Acwing_247.java</url>
-          <line>149</line>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/leet850.java</url>
-          <line>99</line>
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet218.java</url>
-          <line>80</line>
-          <option name="timeStamp" value="133" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/leet218_2.java</url>
-          <line>86</line>
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/leet218_2.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="140" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/leet218_2.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="141" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/leet218_2.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="142" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet_307.java</url>
-          <line>108</line>
-          <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet_307.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet_307.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet_307.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="147" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet315.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="150" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet315.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="151" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet315.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="152" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet493.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="153" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet2569.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="156" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/xianduanshu/Leet2569.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet2572.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet2572.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet2572.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="162" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet2572.java</url>
-          <line>107</line>
-          <option name="timeStamp" value="163" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sanuie/contetst_tow_99.java</url>
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing797.java</url>
           <line>28</line>
-          <option name="timeStamp" value="165" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/sanuie/contest_per_335.java</url>
-          <line>99</line>
-          <option name="timeStamp" value="170" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet_834_tree_dp.java</url>
-          <line>79</line>
-          <option name="timeStamp" value="171" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet_310_tree_dp.java</url>
-          <line>94</line>
-          <option name="timeStamp" value="172" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet_310_tree_dp.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="173" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet_310_tree_dp.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="174" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/tree/Leet_2322_timestramp.java</url>
-          <line>96</line>
-          <option name="timeStamp" value="179" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/tree/Leet_2003_timestramp.java</url>
-          <line>98</line>
-          <option name="timeStamp" value="181" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/tree/Leet_2003_timestramp.java</url>
-          <line>142</line>
-          <option name="timeStamp" value="187" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/tree/Leet_2003_timestramp.java</url>
-          <line>137</line>
-          <option name="timeStamp" value="189" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java</url>
-          <line>213</line>
-          <option name="timeStamp" value="197" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java</url>
-          <line>298</line>
-          <option name="timeStamp" value="199" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/utils/ChangeToArrayOrList.java</url>
-          <line>293</line>
-          <option name="timeStamp" value="200" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/stack/Leet962.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="201" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/queue/Leet862.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="202" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet516.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="203" />
+          <properties />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/sanyue/First.java</url>
@@ -1272,6 +1075,79 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+<<<<<<< HEAD
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/queue/Leet209.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/categories/dataStructure/queue/Leet862.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/contest/sanyue/Forth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing3729.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing798.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/contest_pre/Acwing797.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="28" lean-forward="true" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+=======
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcodeJ$ChangeToArrayOrList.ic" NAME="ChangeToArrayOrList Coverage Results" MODIFIED="1678255238507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leetcode.utils.*</FILTER>
@@ -1294,5 +1170,6 @@
     <SUITE FILE_PATH="coverage/leetcodeJ$Leet_numDp.ic" NAME="Leet_numDp Coverage Results" MODIFIED="1679277227558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leetcode.categories.dp.*</FILTER>
     </SUITE>
+>>>>>>> c839f5858b399b98bd7b8bb783f046bda4e09af9
   </component>
 </project>
