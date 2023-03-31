@@ -12,16 +12,21 @@ import java.util.Scanner;
  * dp[i] = dp[i] * 10 + (s[cur] - '0' == x)
  * 表示不受限制情况下，是数字的情况下，有的次数
  * dp[i][cnt]:
- * 前i位的情况下，数字x的个数为cnt的时候。非受限制的状态的个数。
+ * 前i位含有cnt个x的时候, 非受限制的状态的个数。
  *
+ *
+ * 1. 记住代码
+ * 2. 理解过程，为什么这么设计，本题特点。
  *
  */
 public class Acwing338_numdp {
 
-    private static int[][] dp = new int[20][1024];
+    private static int[][] dp = new int[20][20];    // 保存的数组合数C(n, x)
     private static char[] s;
+
     public static void main(String[] args) {
         int a, b;
+//        init();
         Scanner sc = new Scanner(System.in);
         a = sc.nextInt();
         b = sc.nextInt();
@@ -35,7 +40,7 @@ public class Acwing338_numdp {
                 b = tmp;
             }
 
-            for (int x = 0; x < 10; x++) {
+            for (int x = 1; x < 10; x++) {
                 // 计算后
                 s = Integer.toString(b).toCharArray();
                 for (int i = 0; i < s.length; i++)
@@ -56,6 +61,16 @@ public class Acwing338_numdp {
             // in
             a = sc.nextInt();
             b = sc.nextInt();
+        }
+    }
+    private static void init() {
+        for (int i = 0; i < 20; i++)  Arrays.fill(dp[i], 0);
+        for (int i = 1; i < 20; i++) {
+            for (int j = 0; j <= i; j++) {
+                if (j == 0) { dp[i][j] = 1; continue; }
+                if (i == j) { dp[i][j] = 1; continue; }
+                dp[i][j] = dp[i - 1][j] + dp[i - 1][j - 1];
+            }
         }
     }
     private static int dfs(int cur, int nums, int x, boolean isNum, boolean isLimit) {

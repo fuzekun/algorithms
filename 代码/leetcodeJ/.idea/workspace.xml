@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="" />
+    <list default="true" id="32509077-812b-4984-a2e9-b77269e53aa8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../算法总结/dp/数位dp.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法总结/dp/数位dp.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,9 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leetcodeJ" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,7 +78,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../java/javaHub/projects/niukeP/demo/2_springdemo/demo1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -107,13 +112,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Acwing338_numdp">
-    <configuration name="Acwing1084_numdp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.Acwing1084_numdp" />
+  <component name="RunManager" selected="Application.Acwing3956_sum">
+    <configuration name="Acwing1072" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.chongci.Acwing1072" />
       <module name="acwing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="lanqiao.chongci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Acwing1085_numdp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.Acwing1085_numdp" />
+    <configuration name="Acwing1220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.chongci.Acwing1220" />
       <module name="acwing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="lanqiao.chongci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Acwing338_numdp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.Acwing338_numdp" />
+    <configuration name="Acwing323" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.chongci.Acwing323" />
       <module name="acwing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="lanqiao.chongci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,25 +152,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet233_numdp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.categories.dp.Leet233_numdp" />
+    <configuration name="Acwing3956_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lanqiao.chongci.Acwing3956_sum" />
+      <module name="acwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lanqiao.chongci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Niubi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.contest.sanyue.Niubi" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.categories.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leet_numDp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.categories.dp.Leet_numDp" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.categories.dp.*" />
+          <option name="PATTERN" value="leetcode.contest.sanyue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Acwing338_numdp" />
-        <item itemvalue="Application.Leet233_numdp" />
-        <item itemvalue="Application.Acwing1084_numdp" />
-        <item itemvalue="Application.Acwing1085_numdp" />
-        <item itemvalue="Application.Leet_numDp" />
+        <item itemvalue="Application.Acwing3956_sum" />
+        <item itemvalue="Application.Acwing1220" />
+        <item itemvalue="Application.Acwing323" />
+        <item itemvalue="Application.Niubi" />
+        <item itemvalue="Application.Acwing1072" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +392,15 @@
       <workItem from="1679132588865" duration="388000" />
       <workItem from="1679219380033" duration="1079000" />
       <workItem from="1679231232879" duration="3072000" />
-      <workItem from="1679274694065" duration="17884000" />
+      <workItem from="1679274694065" duration="18750000" />
+      <workItem from="1679306707033" duration="10832000" />
+      <workItem from="1679360335758" duration="10118000" />
+      <workItem from="1679402261780" duration="2794000" />
+      <workItem from="1679446489029" duration="11214000" />
+      <workItem from="1679725916289" duration="1429000" />
+      <workItem from="1679741898863" duration="3672000" />
+      <workItem from="1679825329921" duration="27843000" />
+      <workItem from="1679964890606" duration="25821000" />
     </task>
     <task id="LOCAL-00001" summary="4月的内容完结">
       <created>1651283981766</created>
@@ -517,10 +530,10 @@
       <screen x="0" y="0" width="1493" height="885" />
     </state>
     <state x="340" y="105" key="#Auto_Import/0.0.1493.885@0.0.1493.885" timestamp="1679107886537" />
-    <state x="340" y="105" key="#Illuminated_Cloud" timestamp="1679274699256">
+    <state x="340" y="105" key="#Illuminated_Cloud" timestamp="1679964912274">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state x="340" y="105" key="#Illuminated_Cloud/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679274699256" />
+    <state x="340" y="105" key="#Illuminated_Cloud/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679964912274" />
     <state x="2823" y="122" key="#Illuminated_Cloud/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678668796357" />
     <state x="340" y="105" key="#Illuminated_Cloud/0.0.1493.885@0.0.1493.885" timestamp="1679104561801" />
     <state x="340" y="105" key="#Project_Structure" timestamp="1677378988469">
@@ -532,77 +545,86 @@
       <screen x="0" y="0" width="1493" height="885" />
     </state>
     <state x="553" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1677374836656" />
+    <state x="496" y="292" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1679404512238">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state x="496" y="292" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679404512238" />
     <state width="400" height="466" key="DebuggerActiveHint" timestamp="1678247278303">
       <screen x="2240" y="-43" width="2560" height="1392" />
     </state>
     <state width="400" height="466" key="DebuggerActiveHint/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678247278303" />
-    <state x="3145" y="185" key="FileChooserDialogImpl" timestamp="1678247987994">
-      <screen x="2240" y="-43" width="2560" height="1392" />
+    <state x="528" y="145" key="FileChooserDialogImpl" timestamp="1679909211785">
+      <screen x="0" y="0" width="1493" height="885" />
     </state>
     <state x="3145" y="185" key="FileChooserDialogImpl/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678247987994" />
-    <state x="528" y="145" key="FileChooserDialogImpl/0.0.1493.885@0.0.1493.885" timestamp="1672907795936" />
-    <state width="1450" height="228" key="GridCell.Tab.0.bottom" timestamp="1679296181280">
+    <state x="528" y="145" key="FileChooserDialogImpl/0.0.1493.885@0.0.1493.885" timestamp="1679909211785" />
+    <state width="1449" height="256" key="GridCell.Tab.0.bottom" timestamp="1680062641399">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="228" key="GridCell.Tab.0.bottom/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679296181280" />
+    <state width="1449" height="256" key="GridCell.Tab.0.bottom/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1680062641399" />
     <state width="2500" height="436" key="GridCell.Tab.0.bottom/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678675195417" />
-    <state width="1450" height="228" key="GridCell.Tab.0.bottom/0.0.1493.885@0.0.1493.885" timestamp="1679294017038" />
-    <state width="1450" height="228" key="GridCell.Tab.0.center" timestamp="1679296181280">
+    <state width="1449" height="256" key="GridCell.Tab.0.bottom/0.0.1493.885@0.0.1493.885" timestamp="1679923329518" />
+    <state width="1449" height="256" key="GridCell.Tab.0.center" timestamp="1680062641399">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="228" key="GridCell.Tab.0.center/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679296181280" />
+    <state width="1449" height="256" key="GridCell.Tab.0.center/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1680062641399" />
     <state width="2500" height="436" key="GridCell.Tab.0.center/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678675195417" />
-    <state width="1450" height="228" key="GridCell.Tab.0.center/0.0.1493.885@0.0.1493.885" timestamp="1679294017038" />
-    <state width="1450" height="228" key="GridCell.Tab.0.left" timestamp="1679296181279">
+    <state width="1449" height="256" key="GridCell.Tab.0.center/0.0.1493.885@0.0.1493.885" timestamp="1679923329518" />
+    <state width="1449" height="256" key="GridCell.Tab.0.left" timestamp="1680062641398">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="228" key="GridCell.Tab.0.left/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679296181279" />
+    <state width="1449" height="256" key="GridCell.Tab.0.left/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1680062641398" />
     <state width="2500" height="436" key="GridCell.Tab.0.left/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678675195417" />
-    <state width="1450" height="228" key="GridCell.Tab.0.left/0.0.1493.885@0.0.1493.885" timestamp="1679294017037" />
-    <state width="1450" height="228" key="GridCell.Tab.0.right" timestamp="1679296181280">
+    <state width="1449" height="256" key="GridCell.Tab.0.left/0.0.1493.885@0.0.1493.885" timestamp="1679923329518" />
+    <state width="1449" height="256" key="GridCell.Tab.0.right" timestamp="1680062641399">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="228" key="GridCell.Tab.0.right/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679296181280" />
+    <state width="1449" height="256" key="GridCell.Tab.0.right/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1680062641399" />
     <state width="2500" height="436" key="GridCell.Tab.0.right/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678675195417" />
-    <state width="1450" height="228" key="GridCell.Tab.0.right/0.0.1493.885@0.0.1493.885" timestamp="1679294017038" />
-    <state width="1450" height="256" key="GridCell.Tab.1.bottom" timestamp="1679295889791">
+    <state width="1449" height="256" key="GridCell.Tab.0.right/0.0.1493.885@0.0.1493.885" timestamp="1679923329518" />
+    <state width="1449" height="256" key="GridCell.Tab.1.bottom" timestamp="1680062641399">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="256" key="GridCell.Tab.1.bottom/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679295889791" />
+    <state width="1449" height="256" key="GridCell.Tab.1.bottom/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1680062641399" />
     <state width="2500" height="436" key="GridCell.Tab.1.bottom/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678675195417" />
-    <state width="1449" height="256" key="GridCell.Tab.1.bottom/0.0.1493.885@0.0.1493.885" timestamp="1679113942594" />
-    <state width="1450" height="256" key="GridCell.Tab.1.center" timestamp="1679295889791">
+    <state width="1449" height="256" key="GridCell.Tab.1.bottom/0.0.1493.885@0.0.1493.885" timestamp="1679923329519" />
+    <state width="1449" height="256" key="GridCell.Tab.1.center" timestamp="1680062641399">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="256" key="GridCell.Tab.1.center/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679295889791" />
+    <state width="1449" height="256" key="GridCell.Tab.1.center/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1680062641399" />
     <state width="2500" height="436" key="GridCell.Tab.1.center/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678675195417" />
-    <state width="1449" height="256" key="GridCell.Tab.1.center/0.0.1493.885@0.0.1493.885" timestamp="1679113942594" />
-    <state width="1450" height="256" key="GridCell.Tab.1.left" timestamp="1679295889791">
+    <state width="1449" height="256" key="GridCell.Tab.1.center/0.0.1493.885@0.0.1493.885" timestamp="1679923329518" />
+    <state width="1449" height="256" key="GridCell.Tab.1.left" timestamp="1680062641399">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="256" key="GridCell.Tab.1.left/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679295889791" />
+    <state width="1449" height="256" key="GridCell.Tab.1.left/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1680062641399" />
     <state width="2500" height="436" key="GridCell.Tab.1.left/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678675195417" />
-    <state width="1449" height="256" key="GridCell.Tab.1.left/0.0.1493.885@0.0.1493.885" timestamp="1679113942594" />
-    <state width="1450" height="256" key="GridCell.Tab.1.right" timestamp="1679295889791">
+    <state width="1449" height="256" key="GridCell.Tab.1.left/0.0.1493.885@0.0.1493.885" timestamp="1679923329518" />
+    <state width="1449" height="256" key="GridCell.Tab.1.right" timestamp="1680062641399">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="256" key="GridCell.Tab.1.right/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679295889791" />
+    <state width="1449" height="256" key="GridCell.Tab.1.right/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1680062641399" />
     <state width="2500" height="436" key="GridCell.Tab.1.right/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678675195417" />
-    <state width="1449" height="256" key="GridCell.Tab.1.right/0.0.1493.885@0.0.1493.885" timestamp="1679113942594" />
+    <state width="1449" height="256" key="GridCell.Tab.1.right/0.0.1493.885@0.0.1493.885" timestamp="1679923329519" />
+    <state x="487" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1679361973981">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state x="487" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679361973981" />
     <state x="135" y="60" key="new project wizard" timestamp="1671464687771">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
     <state x="135" y="60" key="new project wizard/0.0.1493.885@0.0.1493.885" timestamp="1671464687771" />
-    <state x="404" y="202" key="run.anything.popup" timestamp="1671467329590">
+    <state x="404" y="202" key="run.anything.popup" timestamp="1679914023622">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state x="404" y="202" key="run.anything.popup/0.0.1493.885@0.0.1493.885" timestamp="1671467329590" />
-    <state x="410" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1679298621892">
+    <state x="404" y="202" key="run.anything.popup/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679320013957" />
+    <state x="404" y="202" key="run.anything.popup/0.0.1493.885@0.0.1493.885" timestamp="1679914023622" />
+    <state x="410" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1680060213634">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state x="410" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1679298621892" />
+    <state x="410" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1493.885/2240.-43.2560.1392@0.0.1493.885" timestamp="1680060213634" />
     <state x="2943" y="251" width="1153" height="1067" key="search.everywhere.popup/0.0.1493.885/2240.-43.2560.1392@2240.-43.2560.1392" timestamp="1678593039961" />
-    <state x="410" y="187" width="673" height="679" key="search.everywhere.popup/0.0.1493.885@0.0.1493.885" timestamp="1679109694402" />
+    <state x="410" y="187" width="673" height="679" key="search.everywhere.popup/0.0.1493.885@0.0.1493.885" timestamp="1679918517834" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1109,13 +1131,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../acwing/src/main/java/dp/Acwing338_numdp.java</url>
-          <line>42</line>
+          <line>47</line>
           <option name="timeStamp" value="226" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dp/Acwing338_numdp.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="227" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet233_numdp.java</url>
@@ -1136,6 +1153,121 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/categories/dp/Leet233_numdp.java</url>
           <line>25</line>
           <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dp/Acwing1081_numdp.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dp/Acwing1081_numdp.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/dp/Acwing1081_numdp.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/sanyue/Leet1487.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/sanyue/Leet982.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/sanyue/Leet982.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/everyDay/sanyue/Leet1599.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing3777.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing3777.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing3777.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing95.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing799.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing1097.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing1097.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing1097.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing1072.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing323.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing323.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/sanyue/Niubi.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/sanyue/Niubi.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/contest/sanyue/Niubi.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing323.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../acwing/src/main/java/lanqiao/chongci/Acwing3956_sum.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="299" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
