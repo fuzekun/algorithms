@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../acwing/acwing.iml" filepath="$PROJECT_DIR$/../acwing/acwing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../niuke/lanqiao/lanqiao.iml" filepath="$PROJECT_DIR$/../niuke/lanqiao/lanqiao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../niuke/niuke.iml" filepath="$PROJECT_DIR$/../niuke/niuke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leetcodeJ.iml" filepath="$PROJECT_DIR$/.idea/leetcodeJ.iml" />
     </modules>
   </component>
 </project>

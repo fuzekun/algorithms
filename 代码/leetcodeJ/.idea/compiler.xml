@@ -6,16 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="algorithm" />
         <module name="acwing" />
-        <module name="lanqiao" />
+        <module name="leetcodeJ" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="acwing" target="1.8" />
-      <module name="algorithm" target="1.8" />
-      <module name="lanqiao" target="1.5" />
-      <module name="niuke" target="1.5" />
+      <module name="leetcodeJ" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
